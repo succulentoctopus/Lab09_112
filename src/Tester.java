@@ -26,6 +26,8 @@ public class Tester{
         //ds.append(9);
         ds.append(3);ds.append(1);ds.append(4);ds.append(1);ds.append(5);ds.append(9);
         System.out.println(ds);
+        ds.append(4); ds.append(4); ds.append(3);
+        System.out.println(ds);
     }
 
 }
